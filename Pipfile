@@ -10,6 +10,9 @@ flask-sqlalchemy = "*"
 gunicorn = "*"
 python-decouple = "*"
 python-dotenv = "*"
+psycopg2-binary = "*"
+validators = "*"
+pytest = "*"
 
 [dev-packages]
 
