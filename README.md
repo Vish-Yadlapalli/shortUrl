@@ -11,3 +11,10 @@ Instructions to run the application:
 3. Run `flask run` on your terminal to run the application locally
 
     ![](demo.gif)
+
+-----------------------------------------------------------------------------------
+Future Work: 
+- Add tests
+- Admin functionality to manage links
+- Authentication to access admin panel
+- Dockerize the application to minimize environment issues
